@@ -1,0 +1,25 @@
+site_name: Alectrion
+
+repo_name: "2023-1-Alectrion"
+repo_url: "https://github.com/fga-eps-mds/2023-1-Alectrion-DOC"
+
+theme:
+  name: material
+  language: "pt"
+  icon:
+    logo: material/police-badge-outline
+    repo: fontawesome/brands/github
+  palette:
+    primary: "red"
+    accent: "red"
+  font:
+    text: "Montserrat"
+    code: "sans-serif"
+
+extra_css:
+  - stylesheets/styles.css
+
+nav:
+  - Início: index.md
+
+dev_addr: "0.0.0.0:8000"
