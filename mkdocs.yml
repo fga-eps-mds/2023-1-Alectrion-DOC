@@ -21,5 +21,9 @@ extra_css:
 
 nav:
   - Início: index.md
+  - Planejamento:
+    - Plano de comunicação: plano-comunicacao.md
+    - Plano de custos: plano.md
+    - Plano de riscos: plano.md
 
 dev_addr: "0.0.0.0:8000"
