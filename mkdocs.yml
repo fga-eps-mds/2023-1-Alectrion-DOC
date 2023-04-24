@@ -21,5 +21,7 @@ extra_css:
 
 nav:
   - Início: index.md
+  - Documentação:
+      - Guia de Contribuição: documentacao/guiaDeContribuicao.md
 
 dev_addr: "0.0.0.0:8000"
