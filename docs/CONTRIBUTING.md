@@ -93,3 +93,4 @@ Obs.: o email PRECISA ser o mesmo que está vinculado à conta do Github.
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |23/04/2023| Criação do Guia de Contribuição | João Pedro |
+|24/04/2023| Revisão do Guia de Contribuição | Lucas Lima |
