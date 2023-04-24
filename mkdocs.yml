@@ -25,5 +25,7 @@ nav:
     - Plano de comunicação: plano-comunicacao.md
     - Plano de custos: plano.md
     - Plano de riscos: plano.md
+  - Documentação:
+      - Guia de Contribuição: documentacao/guiaDeContribuicao.md
 
 dev_addr: "0.0.0.0:8000"
