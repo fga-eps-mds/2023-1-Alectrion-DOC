@@ -31,8 +31,6 @@ Se referem à equipe de EPS e MDS envolvidos diretamente com o projeto.
 
 **OBS**: Reuniões com o *product owner* e acompanhamentos podem ser realizados sob demanda.
 
-(1) Essa atividade terá como pauta os seguintes pontos: i) O que estou fazendo hoje?; ii) O que pretendo fazer amanhã?; iii) Estou tendo dificuldades? Se sim, quais?.
-
 ### 3.2 Reuniões Externas
 
 Se referem tanto à equipe (EPS e MDS) quanto aos demais interessados.
