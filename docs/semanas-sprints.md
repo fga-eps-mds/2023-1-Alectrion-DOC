@@ -7,3 +7,4 @@ Foi feita a documentação das semanas iniciais do projeto e das *sprints*.
 - [Semana 1](./semanas-sprints/semana1.md)
 
 ## *Sprints*
+- [*Sprint* 1](./semanas-sprints/sprint1.md)
