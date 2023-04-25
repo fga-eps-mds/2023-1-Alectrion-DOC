@@ -1,0 +1,9 @@
+
+# Semanas e Sprints do Projeto
+
+Foi feita a documentação das semanas iniciais do projeto e das *sprints*.
+
+## Semanas
+- [Semana 1](./semanas-sprints/semana1.md)
+
+## *Sprints*
