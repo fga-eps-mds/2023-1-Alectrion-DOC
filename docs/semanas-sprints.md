@@ -5,6 +5,7 @@ Foi feita a documentação das semanas iniciais do projeto e das *sprints*.
 
 ## Semanas
 - [Semana 1](./semanas-sprints/semana1.md)
+- [Semana 2](./semanas-sprints/semana2.md)
 
 ## *Sprints*
 - [*Sprint* 1](./semanas-sprints/sprint1.md)
