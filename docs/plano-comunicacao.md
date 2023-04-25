@@ -51,5 +51,5 @@ Se referem tanto à equipe (EPS e MDS) quanto aos demais interessados.
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
-|24/04/2023| Criação do plano de comunicação | Aline Lermen |
-
+| 24/04/2023 | Criação do plano de comunicação | Aline Lermen |
+| 24/04/2023 | Revisão do plano de comunicação | Lucas Lima |
