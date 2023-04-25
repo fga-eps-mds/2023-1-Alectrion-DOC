@@ -49,3 +49,4 @@ Servidores DSTI da Polícia Civil de Goiás.
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |19/04/2023| Criação do documento | Lucas Lima |
+|24/04/2023| Revisão PR | Caio Martins |
