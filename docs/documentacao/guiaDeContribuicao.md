@@ -16,21 +16,21 @@ Siga o seguinte [código de conduta](https://www.contributor-covenant.org/versio
 
 #### Repositórios de desenvolvimento
 
-Nos repositórios do código do projeto temos uma branch principal, a **main**. 
+Nos repositórios do código do projeto temos uma branch principal, a **develop**. 
 
-A branch **main** é a branch mais estável do projeto, que estará em produção. Essa branch é protegida de commits e para o desenvolvimento de novas funcionalidades, deve receber Pull Requests (PRs).
+A branch **develop** é a branch mais estável do projeto, que estará em produção. Essa branch é protegida de commits e para o desenvolvimento de novas funcionalidades, deve receber Pull Requests (PRs).
 
 ##### Novas branches
 
-As branches para o desenvolvimento de novas features devem ser criadas a partir da branch **main** e devem seguir o padrão **x-nome-da-issue**, onde **x** é o número da issue que será resolvida na branch, acompanhado pelo nome da issue.
+As branches para o desenvolvimento de novas features devem ser criadas a partir da branch **develop** e devem seguir o padrão **x-nome-da-issue**, onde **x** é o número da issue que será resolvida na branch, acompanhado pelo nome da issue.
 
-Os Pull Requests das novas branches devem ser feitos para a branch **main**.
+Os Pull Requests das novas branches devem ser feitos para a branch **develop**.
 
 Em casos de correções rápidas de bugs, a branch  deve seguir o padrão **FIX-x-problema-a-ser-resolvido**, onde x é o número da issue, caso tenha.
 
 #### Repositório de documentação
 
-No repositório de documentação na **main** está o código da página de documentação do github pages. A branch **main** está protegida e só deve aceitar modificações por Pull Requests..
+No repositório de documentação na **develop** está o código da página de documentação do github pages. A branch **develop** está protegida e só deve aceitar modificações por Pull Requests..
 
 As novas branches, assim como nos repositórios de desenvolvimento devem seguir a estrutura **x-nome-da-issue**.
 
@@ -90,7 +90,7 @@ Obs.: o email PRECISA ser o mesmo que está vinculado à conta do Github.
 
 ## 4. Histórico de versão
 
-|**Data**|**Descrição**|**Autore(es)**|
+|**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |23/04/2023| Criação do Guia de Contribuição | João Pedro |
 |24/04/2023| Revisão do Guia de Contribuição | Lucas Lima |
