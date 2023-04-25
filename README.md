@@ -2,7 +2,7 @@
 
 O Alectrion é um projeto feito para a Polícia Civil do Goiás e desenvolvido pelos alunos que cursam as disciplinas de Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS) da Universidade de Brasília (UnB).
 
-O Alectrion tem como objetivo auxiliar o gerenciamento de chamados realizados pelo departamento de tecnologia.
+O Alectrion tem como objetivo auxiliar o gerenciamento de equipamentos disponíveis, detalhando o status do mesmo (disponível, em manutenção, descarte).
 
 ## Rodando a documentação localmente
 
