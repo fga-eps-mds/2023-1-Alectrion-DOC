@@ -90,7 +90,7 @@ Somando as estimativas de custo semanal de internet (R$**382,50**) e energia (R$
 
 ## 3. Definição do orçamento
 
-Considerando as estimativas de custos acima calculadas e uma margem de 10%, o orçamento total para o projeto em 16 semanas é:
+Considerando as estimativas de custos acima calculadas e uma margem de 10%, o orçamento total para o projeto em 17 semanas é:
 
 * custo recursos humanos + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura
 * R$59.942,00 + R$51.000,00 + R$0 + R$0 + R$6554,52 = **R$117.496,52**
