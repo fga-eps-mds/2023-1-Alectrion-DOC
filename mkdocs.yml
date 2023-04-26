@@ -28,5 +28,6 @@ nav:
   - Documentação:
     - Guia de Contribuição: documentacao/guiaDeContribuicao.md
     - Termo de abertura: documentacao/tap.md
+    - Estrutura Analítica do Projeto: documentacao/eap.md
     
 dev_addr: "0.0.0.0:8000"
