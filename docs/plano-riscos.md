@@ -65,21 +65,19 @@ Dada a matriz de probabilidade/impacto define-se um nível de prioridade para os
 
 ## 3.5 Planejamento de resposta aos riscos
 
-* Prevenir
-Alguns riscos são muito altos e surgem cedo, por isso é essencial prevenir o projeto eliminando a ameaça.
+A equipe pode responder aos riscos de diferentes maneiras, são elas:
 
-* Transferir
-Transferir o risco trata-se de realocar o impacto e responsabilidade para uma terceira parte.
+* **Prevenir**: alguns riscos são muito altos e surgem cedo, por isso é essencial prevenir o projeto eliminando a ameaça.
 
-* Mitigar
-Para mitigar o risco, a equipe age visando reduzir probabilidade de ocorrência ou consequência de determinado risco para dentro de limites aceitáveis.
+* **Transferir**: transferir o risco trata-se de realocar o impacto e responsabilidade para uma terceira parte.
 
-* Aceitar
-A aceitação do risco ocorre quando a equipe decide não agir para diminuir a ocorrência de um risco ou não é possível identificar outra estratégia de resposta apropriada.
+* **Mitigar**: para mitigar o risco, a equipe age visando reduzir probabilidade de ocorrência ou consequência de determinado risco para dentro de limites aceitáveis.
+
+* **Aceitar**: a aceitação do risco ocorre quando a equipe decide não agir para diminuir a ocorrência de um risco ou não é possível identificar outra estratégia de resposta apropriada.
 
 ## 3.6 Identificação dos riscos
 
-Para acompanhar os riscos identificado durante o projeto e sua evolução ao longo das Sprints [acesse a planilha](https://docs.google.com/spreadsheets/d/1A0uYLgSTOY6gE4mpim54irJJFwpybXkEjtH8Sig9-e4/edit?usp=sharing)
+Para acompanhar os riscos identificados durante o projeto e sua evolução ao longo das Sprints [acesse a planilha](https://docs.google.com/spreadsheets/d/1A0uYLgSTOY6gE4mpim54irJJFwpybXkEjtH8Sig9-e4/edit?usp=sharing)
 
 <iframe width="1200" height="1150" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/1A0uYLgSTOY6gE4mpim54irJJFwpybXkEjtH8Sig9-e4/edit?usp=sharing"></iframe>
 
