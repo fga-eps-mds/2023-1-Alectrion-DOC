@@ -17,4 +17,5 @@
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 25/04/2023 | Criação do documento | Aline Lermen |
+| 26/04/2023 | Revisão do documento | João Pedro |
 
