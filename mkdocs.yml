@@ -23,7 +23,7 @@ nav:
   - Início: index.md
   - Planejamento:
     - Plano de comunicação: plano-comunicacao.md
-    - Plano de custos: plano.md
+    - Plano de custos: plano-custos.md
     - Plano de riscos: plano.md
   - Documentação:
     - Guia de Contribuição: documentacao/guiaDeContribuicao.md
