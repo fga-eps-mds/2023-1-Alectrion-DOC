@@ -1,11 +1,5 @@
 # Análise de Riscos
 
-## 1. Histórico de versão
-
-| Versão |    Data    |             Comentário             |            Autor(es)            |
-| :----: | :--------: | :--------------------------------: | :-----------------------------: |
-|  1.0   | 23/04/2023 |        Criação do documento        |  Dafne Moretti, João Vitor      |
-
 ## 1. Introdução
 
 O desenvolvimento de software não está livre de riscos que podem se tornar empecilhos e, por isso, requer atividades de gerência de projetos como gerenciamento de riscos. Identificar os riscos, analisar a probabilidade e o impacto de cada um deles pode ajudar a minimizar o impacto destes no projeto.
@@ -57,7 +51,7 @@ A partir da multiplicação das métricas de probabilidade e impacto, chegamos n
 | **Alto**        |      4      |   8   |  12   |  16  |     20     |
 | **Muito Alto**  |      5      |  10   |  15   |  20  |     25     |
 
-Intervalo de nível de prioridade 
+## 3.4 Intervalo de nível de prioridade 
 
 Dada a matriz de probabilidade/impacto define-se um nível de prioridade para os riscos determinando a urgência de medidas a serem tomadas para responder a estes.
 
@@ -69,7 +63,7 @@ Dada a matriz de probabilidade/impacto define-se um nível de prioridade para os
 | **Alto**        |   16 a 20   |   
 | **Muito Alto**  |   21 a 25   |
 
-## 3.4 Planejamento de resposta aos riscos
+## 3.5 Planejamento de resposta aos riscos
 
 * Prevenir
 Alguns riscos são muito altos e surgem cedo, por isso é essencial prevenir o projeto eliminando a ameaça.
@@ -83,7 +77,7 @@ Para mitigar o risco, a equipe age visando reduzir probabilidade de ocorrência 
 * Aceitar
 A aceitação do risco ocorre quando a equipe decide não agir para diminuir a ocorrência de um risco ou não é possível identificar outra estratégia de resposta apropriada.
 
-## Identificação dos riscos
+## 3.6 Identificação dos riscos
 
 Para acompanhar os riscos identificado durante o projeto e sua evolução ao longo das Sprints [acesse a planilha](https://docs.google.com/spreadsheets/d/1A0uYLgSTOY6gE4mpim54irJJFwpybXkEjtH8Sig9-e4/edit?usp=sharing)
 
@@ -93,7 +87,7 @@ Para acompanhar os riscos identificado durante o projeto e sua evolução ao lon
 A partir da **probabilidade** e do **impacto** é possível gerar um gráfico de Burndown de Riscos, onde acompanha-se o andamento dos riscos ao longo das sprints.
  -->
 
-## Referências Bibliográficas
+## Referências
 
 > [1] Guia PMBOK 6a. ed. EUA: Project Management Institure, 2017. Disponível em: https://www.site.com
 
@@ -103,3 +97,8 @@ A partir da **probabilidade** e do **impacto** é possível gerar um gráfico de
 
 > [4] PLANO de Resposta ao Risco. [S. l.: s. n.], 2010. Disponível em: http://moodle.stoa.usp.br/file.php/877/08_Monografia_Gerenciamento_Riscos.pdf. Acesso em: 24 abr. 2023.
 
+## 4. Histórico de versão
+
+|**Data**|**Descrição**|**Autor(es)**|
+|--------|-------------|--------------|
+|24/04/2023| Criação da Análise de Riscos |   Dafne Moretti, João Vitor     |
