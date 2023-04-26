@@ -122,4 +122,4 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |19/04/2023| Criação do documento | Lucas Lima |
-|25/04/2023| Revisão do documento | Aline Lermen |
+|25/04/2023| Revisão do documento | Aline Lermen e João Pedro |
