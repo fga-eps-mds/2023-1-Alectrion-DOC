@@ -1,7 +1,7 @@
 # Semana 2
 
 - Data de início: 05/04/2023
-- Data de término: 12/04/2023
+- Data de término: 11/04/2023
 
 
 ## Atividades

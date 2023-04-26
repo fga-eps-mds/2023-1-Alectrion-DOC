@@ -7,11 +7,11 @@
 ## Atividades
 |Tarefas|
 |-------|
-|Definir equipe de EPS e MDS|
-|Definir o projeto de escolha|
-|Criar e preencher o quadro de conhecimentos|
-|Verificar disponibilidade de horários da equipe|
-|Organizar as ferramentas de comunicação interna|
+|Definição equipe de EPS e MDS|
+|Definição o projeto de escolha|
+|Criação e preenchimento o quadro de conhecimentos|
+|Verificação da disponibilidade de horários da equipe|
+|Organização das ferramentas de comunicação interna|
 |Reunião de kick-off com o cliente|
 
 ## Histórico de versão
