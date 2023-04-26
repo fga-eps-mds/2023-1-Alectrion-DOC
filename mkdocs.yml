@@ -24,7 +24,7 @@ nav:
   - Planejamento:
     - Plano de comunicação: plano-comunicacao.md
     - Plano de custos: plano-custos.md
-    - Plano de riscos: plano.md
+    - Análise de riscos: plano-riscos.md
   - Documentação:
     - Guia de Contribuição: documentacao/guiaDeContribuicao.md
     - Termo de abertura: documentacao/tap.md
