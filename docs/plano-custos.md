@@ -1,6 +1,5 @@
 # Plano de custos
 
-
 ## 1. Introdução
 
 O plano de custos descreve como os custos do projeto serão planejados, estruturados e controlados, fornecendo detalhes dos processos e ferramentas usadas. A primeira etapa é a estimativa de custos, realizada para estimar o custo dos recursos necessários para a execução do projeto. Depois é determinado o orçamento, agregando todos os custos estimados. Por fim, é feito o controle desses custos para monitorar e possivelmente atualizar o orçamento.
@@ -10,7 +9,7 @@ Este documento apresenta a estimativa de custos, orçamentos e controle, para qu
 
 ## 2. Estimativa de custos
 
-### 2.1 Recursos humanos
+### 2.1 Pessoas
 Para essa estimativa de custos foi utilizado o custo médio anual por aluno de instituto federal. De acordo com [jornal da unesp](https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/) [5], esse custo é de R$40.900 anual por aluno. Para essa estimativa, leva-se também em consideração o curso da equipe, Engenharia de Software, que é um curso de 5 anos, de 232 créditos. Considerando também as 17 semanas de projeto e os 17 integrantes da equipe, temos os seguintes cálculos.
 
 Correção: A partir da Sprint 2 temos apenas 16 integrantes da equipe.
@@ -111,7 +110,7 @@ Somando as estimativas de custo semanal de internet (R$**360,00**) e energia (R$
 
 Considerando as estimativas de custos acima calculadas e uma margem de 10%, o orçamento total para o projeto em 17 semanas é:
 
-* custo recursos humanos + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura
+* custo pessoas + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura
 * R$59.942,00 + R$51.000,00 + R$0 + R$0 + R$6554,52 = **R$117.496,52**
 
 Atualização:
@@ -128,7 +127,11 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 
 <iframe width="1200" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/1kdzz1YNHFtB67Of6R2GIzyFhf1q0JpOVAvLvgTXxyiE/edit#gid=0"></iframe>
 
-## 5. Referências
+## 5. EVM Agile
+
+A partir dos custos levantados, foi possível planejar e organizar a  <a href="../evm/" >EVM Agile do Projeto</a>
+
+## 6. Referências Bibliográficas
 
 <!-- Referências enumeradas-->
 
@@ -140,7 +143,7 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 > [6] Alectrion. Disponível em: https://fga-eps-mds.github.io/2022-2-Alectrion-DOC. Acesso em: 19 de abril de 2023  
 > [7] Kabum. Disponível em: https://www.kabum.com.br/computadores/notebooks. Acesso em: 20 de abril de 2023  
 
-## 6. Histórico de versão
+## 7. Histórico de versão
 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
