@@ -29,5 +29,6 @@ nav:
     - Guia de Contribuição: documentacao/guiaDeContribuicao.md
     - Termo de abertura: documentacao/tap.md
     - Estrutura Analítica do Projeto: documentacao/eap.md
+  - Semanas e Sprints: semanas-sprints.md
     
 dev_addr: "0.0.0.0:8000"
