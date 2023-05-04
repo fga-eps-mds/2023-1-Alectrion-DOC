@@ -57,3 +57,8 @@ Agradecemos a todos os membros da comunidade por ajudarem a manter um ambiente r
 
 ### Modificações destas diretrizes
 Às vezes a equipe pode apurar as diretrizes e também variar os procedimentos estabelecidos, quando apropriado, em casos específicos. Sua concordância com as diretrizes considera aceitar quaisquer alterações.
+
+
+|**Data**|**Descrição**|**Autor(es)**|
+|--------|-------------|--------------|
+|30/03/2023| Adição do documento | Caio Martins |
