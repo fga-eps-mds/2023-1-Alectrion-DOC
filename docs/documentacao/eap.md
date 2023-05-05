@@ -27,3 +27,4 @@ A imagem 1 abaixo mostra a EAP para o projeto Alectrion.
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |26/04/2023| Adição do documento | João Vitor |
+|04/05/2023| Atualização da imagem da EAP | João Vitor |
