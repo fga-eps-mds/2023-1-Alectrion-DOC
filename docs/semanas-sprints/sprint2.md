@@ -6,14 +6,17 @@
 ## Objetivos da sprint
 * Finalizar os trabalhos não concluídos da sprint anterior
     * US 1, US 2, US 3, US 4
+* Iniciar Épico de movimentações
+    * US 5
 
 ## Backlog da Sprint
 |**US**|**Responsáveis**|
 |--------|-------------|
-| [US 01: Cadastrar equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/31) |Suzane, Lucas Gabriel|
-| [US 02: Editar equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/36)    |Ester, Matheus|
-| [US 03: Excluir equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/37)   |Pedro Izarias, Pedro Sena|
-| [US 04: Listar equipamentos](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/64)   |Luana, Eric|
+| [US 01: Cadastrar equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/31)    |Suzane, Lucas Gabriel|
+| [US 02: Editar equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/36)       |Ester, Matheus|
+| [US 03: Excluir equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/37)      |Pedro Izarias, Pedro Sena|
+| [US 04: Listar equipamentos](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/64)      |Luana, Eric|
+| [US 05: Registrar movimentações](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/50)  |Pablo, Leonardo|
 
 ## Outras atividades
 * Continuar com a elaboração de documentação
