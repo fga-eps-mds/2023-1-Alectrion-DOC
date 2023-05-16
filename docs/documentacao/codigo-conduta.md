@@ -62,3 +62,4 @@ Agradecemos a todos os membros da comunidade por ajudarem a manter um ambiente r
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |30/03/2023| Adição do documento | Caio Martins |
+|15/05/2023| Revisão do documento | João Pedro |
