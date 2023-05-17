@@ -26,8 +26,9 @@ nav:
     - Plano de custos: plano-custos.md
     - Análise de riscos: plano-riscos.md
   - Documentação:
-    - Guia de Contribuição: documentacao/guiaDeContribuicao.md
+    - Guia de contribuição: documentacao/guiaDeContribuicao.md
     - Termo de abertura: documentacao/tap.md
+    - Documento de arquitetura: documentacao/arquitetura.md
   - Semanas e Sprints: semanas-sprints.md
     
 dev_addr: "0.0.0.0:8000"
