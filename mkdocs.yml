@@ -33,6 +33,7 @@ nav:
     - Metodologias: metodologias.md
     - Termo de abertura: documentacao/tap.md
     - Estrutura analítica do projeto: documentacao/eap.md
+    - Documento de arquitetura: documentacao/arquitetura.md
   - Protótipo: documentacao/prototipo.md
   - Semanas e Sprints: semanas-sprints.md
 
