@@ -29,3 +29,4 @@ A imagem 1 abaixo mostra a EAP para o projeto Alectrion.
 |26/04/2023| Adição do documento | João Vitor |
 |04/05/2023| Atualização da imagem da EAP | João Vitor |
 |15/05/2023| Revisão de Documento | João Pedro |
+|17/05/2023| Atualização da imagem da EAP | João Vitor |
