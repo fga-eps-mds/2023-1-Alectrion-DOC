@@ -30,6 +30,7 @@ nav:
     - Guia de contribuição: documentacao/guiaDeContribuicao.md
     - Código de conduta: documentacao/codigo-conduta.md
     - Guia de estilo: documentacao/guia-de-estilo.md
+    - Metodologias: metodologias.md
     - Termo de abertura: documentacao/tap.md
     - Estrutura analítica do projeto: documentacao/eap.md
   - Protótipo: documentacao/prototipo.md
