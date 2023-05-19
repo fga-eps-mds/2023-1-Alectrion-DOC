@@ -33,12 +33,14 @@
 
 
 ## Quadro de conhecimento
+<img src="../../assets/quadro-conhecimento/quadro-sprint3.png">
 
 ## Retrospectiva da sprint 3
-
+<img src="../../assets/retrospectivas/retro-sprint3.png">
 
 ## Histórico de versão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 15/05/2023 | Criação do documento | Aline Lermen |
+| 18/05/2023 | Adição da retrospectiva e quadro de conhecimento | Aline Lermen |
