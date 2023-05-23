@@ -46,3 +46,4 @@
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 14/05/2023 | Criação do documento | Aline Lermen |
+| 23/05/2023 | Revisão do documento | Dafne Moretti |

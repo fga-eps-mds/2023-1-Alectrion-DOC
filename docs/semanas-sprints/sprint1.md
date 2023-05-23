@@ -47,3 +47,4 @@
 |--------|-------------|--------------|
 | 25/04/2023 | Criação da estrutura do documento | Aline Lermen |
 | 11/05/2023 | Adição das informações no documento | Aline Lermen |
+| 23/05/2023 | Revisão do documento | Dafne Moretti |

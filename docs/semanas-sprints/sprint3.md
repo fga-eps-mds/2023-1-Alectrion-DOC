@@ -44,3 +44,4 @@
 |--------|-------------|--------------|
 | 15/05/2023 | Criação do documento | Aline Lermen |
 | 18/05/2023 | Adição da retrospectiva e quadro de conhecimento | Aline Lermen |
+| 23/05/2023 | Revisão do documento | Dafne Moretti |
