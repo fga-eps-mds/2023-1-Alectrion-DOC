@@ -55,3 +55,4 @@ Os icones utilizados na aplicação são obtidos a partir da biblioteca [materia
 | ---------- | ----------------------------------- | --------------------- |
 | 01/05/2023 | Criação do documento guia de estilo | Lucas Gabriel Bezerra |
 | 15/05/2023 | Revisão do documento | João Pedro |
+| 23/05/2023 | Revisão do documento | Dafne Moretti |
