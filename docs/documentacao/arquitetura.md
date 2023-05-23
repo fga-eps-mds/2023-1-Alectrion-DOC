@@ -80,3 +80,4 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 | 17/05/2023 | Adição do documento | João Vitor |
+| 23/05/2023 | Revisão do documento | Dafne Moretti |
