@@ -22,7 +22,7 @@ O Código de Conduta rege como nos comportamos em público ou em particular semp
 
 **Assumir a responsabilidade:** Todos nós podemos cometer erros; quando o fazemos, assumimos a responsabilidade por eles. Se alguém foi prejudicado ou ofendido, ouvimos com atenção e respeito e trabalhamos para corrigir o erro.
 
-**Seja colaborativo:** O que produzimos é um todo complexo feito de muitas partes, é a soma de muitos sonhos. A colaboração entre as equipes, cada uma com seu próprio objetivo e visão, é essencial; para que o todo seja mais do que a soma das partes, cada parte deve se esforçar para entender o todo. A colaboração reduz a redundância e melhora a qualidade do nosso trabalho. Interna e externamente, celebramos a boa colaboração. Sempre que possível, trabalhamos em estreita colaboração com projetos upstream e outros na comunidade de software livre para coordenar nossos esforços. Preferimos trabalhar de forma transparente e envolver as partes interessadas o mais cedo possível.
+**Seja colaborativo:** O que produzimos é um todo complexo feito de muitas partes, é a soma de muitos sonhos. A colaboração dentro da equipe, cada pessoa com seu próprio objetivo e visão, é essencial; para que o todo seja mais do que a soma das partes, cada parte deve se esforçar para entender o todo. A colaboração reduz a redundância e melhora a qualidade do nosso trabalho. Interna e externamente, celebramos a boa colaboração. Sempre que possível, trabalhamos em estreita colaboração com projetos upstream e outros na comunidade de software livre para coordenar nossos esforços. Preferimos trabalhar de forma transparente e envolver as partes interessadas o mais cedo possível.
 
 **Seja claro:** Desentendimentos, sociais e técnicos, são normais, mas não permitimos que persistam e apodreçam, deixando os outros incertos quanto à direção acordada. Esperamos que os participantes do projeto resolvam os desacordos de forma construtiva. Quando eles não podem, encaminhamos o assunto para estruturas com líderes designados para arbitrar e fornecer clareza e direção.
 
@@ -46,7 +46,7 @@ Os seguintes comportamentos são inaceitáveis e não serão tolerados em nossa 
 **Comportamento disruptivo:** qualquer forma de comportamento disruptivo que prejudique a capacidade da comunidade de trabalhar juntos de forma construtiva.
 
 ### Consequências do não cumprimento
-Se você acredita que está enfrentando um comportamento inaceitável que não é tolerado conforme descrito acima, denuncie para os integrantes da equipe de EPS listada [aqui](https://fga-eps-mds.github.io/2023-1-Alectrion-DOC/). As denúncias são avaliadas pela liderança de respostas das diretrizes de participação da comunidade. Depois de receber uma descrição concisa da situação, eles analisam o caso e determinam as próximas etapas.
+Se você acredita que está enfrentando um comportamento inaceitável que não é tolerado conforme descrito acima, denuncie para os integrantes da equipe de EPS e MDS listada [aqui](https://fga-eps-mds.github.io/2023-1-Alectrion-DOC/). As denúncias são avaliadas pela liderança de respostas das diretrizes de participação da comunidade. Depois de receber uma descrição concisa da situação, eles analisam o caso e determinam as próximas etapas.
 
 
 
@@ -63,3 +63,4 @@ Agradecemos a todos os membros da comunidade por ajudarem a manter um ambiente r
 |--------|-------------|--------------|
 |30/03/2023| Adição do documento | Caio Martins |
 |15/05/2023| Revisão do documento | João Pedro |
+|23/05/2023| Revisão do documento | Dafne Moretti |
