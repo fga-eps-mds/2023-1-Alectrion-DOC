@@ -1,5 +1,9 @@
 .md-header {
-  background: #2a2a2a;
+  background: #F49320 !important;
+}
+
+.md-tabs {
+  background: #F49320 !important;
 }
 
 p img {
