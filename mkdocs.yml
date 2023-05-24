@@ -21,14 +21,15 @@ extra_css:
 
 nav:
   - Início: index.md
-  - Planejamento:
-      - Plano de comunicação: plano-comunicacao.md
-      - Plano de custos: plano-custos.md
-      - Análise de riscos: plano-riscos.md
-  - Documentação:
-      - Guia de Contribuição: documentacao/guiaDeContribuicao.md
-      - Guia de Estilo: documentacao/guia-de-estilo.md
-      - Termo de abertura: documentacao/tap.md
+  - Plano e monitoramento:
+    - Plano de comunicação: plano-comunicacao.md
+    - Plano de custos: plano-custos.md
+    - Análise de riscos: plano-riscos.md
+  - Contribuição:
+    - Guia de Contribuição: documentacao/guiaDeContribuicao.md
+    - Guia de Estilo: documentacao/guia-de-estilo.md
+    - Termo de abertura: documentacao/tap.md
+  - Protótipo: documentacao/prototipo.md
   - Semanas e Sprints: semanas-sprints.md
 
 dev_addr: "0.0.0.0:8000"
