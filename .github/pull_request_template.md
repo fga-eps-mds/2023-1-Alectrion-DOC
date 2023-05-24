@@ -2,7 +2,7 @@
 Issue relacionada: resolves fga-eps-mds/2023-1-Alectrion-DOC/#
 
 <!-- OBSERVAÇÕES:
-  - X é o número da issue
+  - # é o número da issue
   - Só utilize o resolves se o PR fechar a issue por completo
 -->
 
