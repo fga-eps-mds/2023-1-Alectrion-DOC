@@ -9,3 +9,4 @@ A partir da definição da identidade visual, construção da visão do produto 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |15/05/2023| Criação do documento | Dafne Moretti |
+|25/05/2023| Revisão do documento | Lucas Lima |
