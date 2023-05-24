@@ -6,12 +6,12 @@ repo_url: "https://github.com/fga-eps-mds/2023-1-Alectrion-DOC"
 theme:
   name: material
   language: "pt"
-  icon:
-    logo: material/police-badge-outline
-    repo: fontawesome/brands/github
+  features: navigation.tabs
+  logo: assets/logos/alectrionLogo.svg
+  favicon: assets/logos/alectrionLogo.svg
   palette:
-    primary: "red"
-    accent: "red"
+    primary: "orange"
+    accent: "black"
   font:
     text: "Montserrat"
     code: "sans-serif"
@@ -27,8 +27,9 @@ nav:
     - Análise de riscos: plano-riscos.md
   - Contribuição:
     - Guia de Contribuição: documentacao/guiaDeContribuicao.md
+    - Guia de Estilo: documentacao/guia-de-estilo.md
     - Termo de abertura: documentacao/tap.md
   - Protótipo: documentacao/prototipo.md
   - Semanas e Sprints: semanas-sprints.md
-    
+
 dev_addr: "0.0.0.0:8000"
