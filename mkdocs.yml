@@ -30,6 +30,7 @@ nav:
     - Código de Conduta: documentacao/codigo-conduta.md
     - Guia de Estilo: documentacao/guia-de-estilo.md
     - Termo de abertura: documentacao/tap.md
+    - Estrutura Analítica do Projeto: documentacao/eap.md
   - Protótipo: documentacao/prototipo.md
   - Semanas e Sprints: semanas-sprints.md
 
