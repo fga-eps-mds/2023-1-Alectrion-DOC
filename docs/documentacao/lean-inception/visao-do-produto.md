@@ -6,6 +6,12 @@ Durante a etapa de visão do produto no Lean Inception, é essencial para a equi
 
 ## 2. Resultado
 
+![Visão do produto 1](../../assets/lean-inception/visao-produto-1.png)
+
+![Visão do produto 2](../../assets/lean-inception/visao-produto-2.png)
+
+![Visão do produto 3](../../assets/lean-inception/visao-produto-3.png)
+
 ## 3. Referências
 
 > [1] EQUIPE ALECTRION 2022-2. Visão do produto. Disponível em: https://fga-eps-mds.github.io/2022-2-Alectrion-DOC/#/./Leaninception/visao-do-produto
