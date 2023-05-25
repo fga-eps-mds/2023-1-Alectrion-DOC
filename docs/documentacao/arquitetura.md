@@ -1,4 +1,4 @@
-# Documento de Arquitetura
+# Documento de arquitetura
 
 ## 1. Introdução
 Este documento tem como principal objetivo elucidar as principais caracteristicas da arquitetura proposta para o software Alectrion, utilizando diferentes visões arquiteturais para destacar diferentes aspectos do sistema, trazendo uma visão geral de toda a arquitetura do sistema. Deste modo facilitando a entendimento da arquiterua para os desenvolvedores.
