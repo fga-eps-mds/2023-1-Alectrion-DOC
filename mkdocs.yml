@@ -27,6 +27,7 @@ nav:
     - Análise de riscos: plano-riscos.md
   - Contribuição:
     - Guia de Contribuição: documentacao/guiaDeContribuicao.md
+    - Código de Conduta: documentacao/codigo-conduta.md
     - Guia de Estilo: documentacao/guia-de-estilo.md
     - Termo de abertura: documentacao/tap.md
   - Protótipo: documentacao/prototipo.md
