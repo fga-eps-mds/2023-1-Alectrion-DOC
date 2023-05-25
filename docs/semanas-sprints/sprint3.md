@@ -19,7 +19,9 @@
 
 
 ## Outras atividades
-* Continuar com a elaboração de documentação
+|**Atividades**|**Responsáveis**|
+|--------|-------------|
+Continuar com a elaboração de documentação | EPS
 
 ## *Squads*
 |**Squad 1** |**Squad 2**     |**Squad 3**|

@@ -19,7 +19,9 @@
 | [US 05: Registrar movimentações](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/50)  |Pablo, Leonardo|
 
 ## Outras atividades
-* Continuar com a elaboração de documentação
+|**Atividades**|**Responsáveis**|
+|--------|-------------|
+Continuar com a elaboração de documentação | EPS
 
 
 ## *Squads*

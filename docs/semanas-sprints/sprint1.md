@@ -5,7 +5,7 @@
 
 ## Objetivos da sprint
 * Início do desenvolvimento das funcionalidades
-    * Épico de Equipamentos
+* Épico de Equipamentos
 * Adicionar o backlog no Zenhub
 
 ## Backlog da Sprint
@@ -17,9 +17,11 @@
 | [US 04: Listar equipamentos](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/64)   |Luana, Eric|
 
 ## Outras atividades
-* Aumentar cobertura de testes do EquipmentAPI
-* Deploy da documentação
-* Adição de template de PR e labels no repositório
+|**Atividade**|**Responsáveis**|
+|--------|-------------|
+Aumentar cobertura de testes do EquipmentAPI | João e Dafne
+Deploy da documentação | Lucas e Caio
+Adição de template de PR e labels no repositório | João
 
 
 ## *Squads*
