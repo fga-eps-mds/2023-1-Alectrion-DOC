@@ -9,13 +9,13 @@
 
 
 ## Backlog da Sprint
-|**US**|**Responsáveis**|
-|--------|-------------|
-| [US 02: Editar equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/36)       |Dafne, Caio|
-| [US 05: Registrar movimentações](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/50)  |Pablo, Leonardo|
-| [US 05: Registrar movimentações](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/50)  |Eric, Suzane|
-| [Filtros de movimentações](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/81)        |Lucas Gabriel, Pedro Izarias|
-| [Filtros de equipamentos](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/84)         |Luana, Matheus|
+|**US**|**Responsáveis**|**EPS responsável**|
+|--------|-------------|-------------|
+| [US 02: Editar equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/36)       |Dafne (EPS), Caio (EPS) | - |
+| [US 05: Registrar movimentações](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/50)  |Pablo, Leonardo| João Vitor |
+| [US 05: Registrar movimentações](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/50)  |Eric, Suzane| Aline |
+| [Filtros de movimentações](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/81)        |Lucas Gabriel (EPS), Pedro Izarias| João Pedro |
+| [Filtros de equipamentos](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/84)         |Luana, Matheus| Lucas Lima |
 
 
 ## Outras atividades

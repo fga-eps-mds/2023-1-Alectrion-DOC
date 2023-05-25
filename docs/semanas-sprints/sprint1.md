@@ -5,16 +5,16 @@
 
 ## Objetivos da sprint
 * Início do desenvolvimento das funcionalidades
-* Épico de Equipamentos
+    * épico de Equipamentos
 * Adicionar o backlog no Zenhub
 
 ## Backlog da Sprint
-|**US**|**Responsáveis**|
-|--------|-------------|
-| [US 01: Cadastrar equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/31) |Suzane, Felipe|
-| [US 02: Editar equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/36)    |Ester, Matheus|
-| [US 03: Excluir equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/37)   |Pedro Izarias, Pedro Sena|
-| [US 04: Listar equipamentos](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/64)   |Luana, Eric|
+|**US**|**Responsáveis**|**EPS responsável**|
+|--------|-------------|-------------|
+| [US 01: Cadastrar equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/31) |Suzane, Felipe| Lucas Gabriel|
+| [US 02: Editar equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/36)    |Ester, Matheus| Caio|
+| [US 03: Excluir equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/37)   |Pedro Izarias, Pedro Sena| Lucas Lima|
+| [US 04: Listar equipamentos](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/64)   |Luana, Eric| Aline|
 
 ## Outras atividades
 |**Atividade**|**Responsáveis**|
@@ -22,6 +22,7 @@
 Aumentar cobertura de testes do EquipmentAPI | João e Dafne
 Deploy da documentação | Lucas e Caio
 Adição de template de PR e labels no repositório | João
+Adição do backlog no zenhub | Aline
 
 
 ## *Squads*
