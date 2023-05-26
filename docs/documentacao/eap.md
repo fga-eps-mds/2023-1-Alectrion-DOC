@@ -14,7 +14,7 @@ A imagem 1 abaixo mostra a EAP para o projeto Alectrion.
 
 ![ Imagem 1: Estrutura Analítica do Projeto Alectrion](../assets/eap.png)
 
-## 3. Referências Bibliográficas
+## 3. Referências
 
 <!-- Referências enumeradas-->
 

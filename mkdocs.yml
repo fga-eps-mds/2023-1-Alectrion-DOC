@@ -26,11 +26,13 @@ nav:
     - Plano de custos: plano-custos.md
     - Análise de riscos: plano-riscos.md
   - Contribuição:
-    - Guia de Contribuição: documentacao/guiaDeContribuicao.md
-    - Código de Conduta: documentacao/codigo-conduta.md
-    - Guia de Estilo: documentacao/guia-de-estilo.md
+    - Backlog do produto: documentacao/backlog.md
+    - Guia de contribuição: documentacao/guiaDeContribuicao.md
+    - Código de conduta: documentacao/codigo-conduta.md
+    - Guia de estilo: documentacao/guia-de-estilo.md
+    - Metodologias: metodologias.md
     - Termo de abertura: documentacao/tap.md
-    - Estrutura Analítica do Projeto: documentacao/eap.md
+    - Estrutura analítica do projeto: documentacao/eap.md
     - Documento de arquitetura: documentacao/arquitetura.md
   - Protótipo: documentacao/prototipo.md
   - Semanas e Sprints: semanas-sprints.md

@@ -1,4 +1,4 @@
-# Análise de Riscos
+# Análise de riscos
 
 ## 1. Introdução
 
@@ -6,7 +6,7 @@ O desenvolvimento de software não está livre de riscos que podem se tornar emp
 
 Por isso, esse documento tem como objetivo principal identificar os riscos e planejar as respostas da equipe frente a eles.
 
-## 2. Categorização de Riscos
+## 2. Categorização de riscos
 
 A EAR (Estrutura Analítica de Riscos) fornece uma estrutura de identificação de riscos com nível de detalhe consistente e categoriza os riscos em técnico, externo, organizacional e gerenciamento de projetos.
 Assim, a equipe elaborou uma EAR para visualizar a categorização dos riscos do projeto Alectrion.

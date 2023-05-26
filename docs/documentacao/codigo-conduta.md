@@ -1,4 +1,4 @@
-# Código de Conduta do Alectrion
+# Código de conduta do Alectrion
 
 O objetivo deste projeto é criar uma comunidade aberta e colaborativa em torno de software de código aberto. Como tal, é importante que todos os membros da comunidade sejam respeitosos e inclusivos em sua interação com outros membros. Este código de conduta estabelece nossas expectativas para o comportamento dos membros da comunidade.
 
