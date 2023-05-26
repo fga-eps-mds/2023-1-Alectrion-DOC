@@ -1,4 +1,4 @@
-# Plano de Custos
+# Plano de custos
 
 
 ## 1. Introdução
@@ -128,7 +128,7 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 
 <iframe width="1200" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/1kdzz1YNHFtB67Of6R2GIzyFhf1q0JpOVAvLvgTXxyiE/edit#gid=0"></iframe>
 
-## 5. Referências Bibliográficas
+## 5. Referências
 
 <!-- Referências enumeradas-->
 
