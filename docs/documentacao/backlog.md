@@ -61,3 +61,4 @@ Conforme descrito no Guia do Scrum, o backlog do produto é uma lista emergente 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |26/05/2023| Adição do documento | João Vitor |
+|26/05/2023| Revisão do documento | Lucas Lima |
