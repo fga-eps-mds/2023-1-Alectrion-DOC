@@ -1,11 +1,11 @@
-# Termo de abertura (TAP)
+# Termo de Abertura (TAP)
 
-## 1. Descrição do Projeto
+## 1. Descrição do projeto
 
 Alectrion é um sistema de gerenciamento de inventário, ordens de serviços e movimentações de equipamentos de informática,
 feito para atender às demandas da DSTI (Divisão de Suporte Técnico Interno) da Polícia Civil do estado de Goiás.
 
-## 2. Propósito e Objetivos
+## 2. Propósito e objetivos
 
 O propósito do Alectrion é oferecer uma aplicação com funcionalidades de gerenciamento de equipamentos de informática para as delegacias da polícia civil de Goiás. Com foco no DSTI, no sistema será possível verificar o histórico de um item, conforme as manutenções realizadas nele, alteração de unidade responsável por este item e outras funcionalidades específicas para o DSTI da PCGO (Polícia Civil de Goiás).
 
@@ -19,7 +19,7 @@ A estimativa de custos trata-se de um estudo que viabiliza a execução de um pr
 
 Clique para acessar o [plano de custos](../Planejamento/custos.md).
 
-## 5. Partes Interessadas
+## 5. Partes interessadas
 
 ### 5.1 Usuários
 
@@ -40,7 +40,7 @@ Servidores DSTI da Polícia Civil de Goiás.
 | Pedro Sena                            |
 | Suzane Alves Duarte                   |
 
-## 6. Referências Bibliográficas
+## 6. Referências
 
 > [1] EQUIPE ALECTRION 2022-1. Termo de abertura. Disponível em: https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/blob/main/docs/documentation/Documentos/tap.md
 

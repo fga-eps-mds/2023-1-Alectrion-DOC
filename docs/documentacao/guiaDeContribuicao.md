@@ -1,4 +1,4 @@
-# Guia de Contribuição
+# Guia de contribuição
 
 ## 1. Introdução
 
