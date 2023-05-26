@@ -36,5 +36,15 @@ nav:
     - Documento de arquitetura: documentacao/arquitetura.md
   - Protótipo: documentacao/prototipo.md
   - Semanas e Sprints: semanas-sprints.md
+  - Lean Inception:
+    - Visão do Produto: documentacao/lean-inception/visao-do-produto.md
+    - É, Não é, Faz, Não faz: documentacao/lean-inception/e-nao-e.md
+    - Objetivos do Produto: documentacao/lean-inception/objetivos.md
+    - Personas: documentacao/lean-inception/personas.md
+    - Jornadas de Usuário: documentacao/lean-inception/jornadas.md
+    - Brainstorm de Funcionalidades: documentacao/lean-inception/brainstorm.md
+    - Revisão técnica, de negócio e de UX: documentacao/lean-inception/revisao.md
+    - Sequenciador: documentacao/lean-inception/sequenciador.md
+    - Canvas MVP: documentacao/lean-inception/canvas.md
 
 dev_addr: "0.0.0.0:8000"
