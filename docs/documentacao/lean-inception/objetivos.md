@@ -19,4 +19,4 @@ Durante a etapa de "Objetivos do Produto" no Lean Inception, a equipe se concent
 |--------|-------------|--------------|
 |25/05/2023| Criação do Documento | João Pedro |
 |25/05/2023| Revisão do Documento | Dafne |
-
+| 26/05/2023 | Revisão do documento | Lucas Lima |

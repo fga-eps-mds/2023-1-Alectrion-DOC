@@ -21,5 +21,5 @@ Durante a etapa "Canvas MVP" no Lean Inception, a equipe elabora um MVP Canvas, 
 |--------|-------------|--------------|
 |25/05/2023| Criação do Documento | João Pedro |
 |25/05/2023| Revisão do Documento | Dafne |
-
+|26/05/2023| Revisão do documento | Lucas Lima |
 

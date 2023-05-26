@@ -19,5 +19,5 @@ O "Sequenciador" é uma atividade que tem como objetivo estabelecer a sequência
 |--------|-------------|--------------|
 |25/05/2023| Criação do Documento | João Pedro |
 |25/05/2023| Revisão do Documento | Dafne |
-
+| 26/05/2023 | Revisão do documento | Lucas Lima |
 
