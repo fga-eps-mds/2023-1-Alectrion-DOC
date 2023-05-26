@@ -73,3 +73,4 @@ O Kanban é um sistema de controle e gestão do fluxo de trabalho. Um quadro Kan
 | 19/05/2023 | Criação do documento com metodologias | Aline Lermen |
 | 22/05/2023 | Adição da descrição do XP | Lucas Gabriel |
 | 25/05/2023 | Revisão do documento | Dafne Moretti |
+| 26/05/2023 | Revisão do documento | Lucas Lima |
