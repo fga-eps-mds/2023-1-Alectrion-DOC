@@ -22,4 +22,6 @@ As jornadas do usuário durante o Lean Inception são uma estratégia empregada 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |25/05/2023| Criação do Documento | João Pedro |
+|25/05/2023| Revisão do Documento | Dafne |
+
 

@@ -22,4 +22,6 @@ Durante a etapa de "Personas" no Lean Inception, a equipe desenvolve personas fi
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |25/05/2023| Criação do Documento | João Pedro |
+|25/05/2023| Revisão do Documento | Dafne |
+
 
