@@ -24,6 +24,7 @@ nav:
   - Plano e monitoramento:
     - Plano de comunicação: plano-comunicacao.md
     - Plano de custos: plano-custos.md
+    - Plano de qualidade: plano-qualidade.md
     - Análise de riscos: plano-riscos.md
   - Contribuição:
     - Guia de contribuição: documentacao/guiaDeContribuicao.md
