@@ -1,0 +1,38 @@
+.md-header {
+  background: #F49320 !important;
+}
+
+.md-tabs {
+  background: #F49320 !important;
+}
+
+p img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+p {
+  text-align: justify;
+}
+
+thead tr {
+  background: #d7323f !important;
+  color: white;
+}
+
+tr:nth-child(odd) {
+  background: #f8f8f8;
+}
+
+td,
+th {
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+img[alt="logo"] {
+  width: 20rem;
+  object-fit: cover;
+}
