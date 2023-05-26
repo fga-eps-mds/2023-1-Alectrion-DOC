@@ -18,4 +18,6 @@ Durante a etapa do "é, não é, faz, não faz" no Lean Inception, a equipe cola
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |25/05/2023| Criação do Documento | João Pedro |
+|25/05/2023| Revisão do Documento | Dafne |
+
 

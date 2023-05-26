@@ -18,4 +18,6 @@ Durante a etapa de "Revisão técnica, de negócio e de UX" no Lean Inception, a
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |25/05/2023| Criação do Documento | João Pedro |
+|25/05/2023| Revisão do Documento | Dafne |
+
 
