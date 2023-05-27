@@ -1,21 +1,52 @@
-# 2023-1-Alectrion-Doc
+<div align="center">
+    <img src="https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/blob/gh-pages/docs/documentation/Documentos/Identidade%20Visual/S%C3%ADmbolo_Alectrion.png?raw=true" height="350px" width="350px">
+</div>
 
-O Alectrion é um projeto feito para a Polícia Civil do Goiás e desenvolvido pelos alunos que cursam as disciplinas de Engenharia de Produto de Software (EPS) e Métodos de Desenvolvimento de Software (MDS) da Universidade de Brasília (UnB).
+## Sobre
 
-O Alectrion tem como objetivo auxiliar o gerenciamento de equipamentos disponíveis, detalhando o status do mesmo (disponível, em manutenção, descarte).
+Alectrion é um sistema de gerenciamento de inventário, ordens de serviços e movimentações de equipamentos de informática,
+feito para atender às demandas da DSTI (Divisão de Suporte Técnico Interno) da Polícia Civil do estado de Goiás.
 
-## Rodando a documentação localmente
+Aplicação disponível em: https://alectrion-2023-1.herokuapp.com
 
-### Requisitos
 
-- Python 3
-- mkdocs
-- mkdocs-material
+## Contribuir
+Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuição](https://fga-eps-mds.github.io/2023-1-Alectrion-DOC/documentacao/guiaDeContribuicao/) do repositório e seguir nossa [Código de Conduta](https://fga-eps-mds.github.io/2023-1-Alectrion-DOC/documentacao/codigo-conduta/).
 
-### Execução
+## Ambientes
 
-- Na raiz do projeto, execute:
+- [Pages](https://fga-eps-mds.github.io/2023-1-Alectrion-DOC/)
 
-        mkdocs serve
+- [Documentação](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC)
 
-- Abra o navegador e acesse a URL <a href="http://localhost:8000"> http://localhost:8000 </a>
+- [Front-End](https://github.com/fga-eps-mds/2023-1-Alectrion-FrontEnd)
+
+- [Back-End: UserAPI](https://github.com/fga-eps-mds/2023-1-Alectrion-UserAPI)
+  
+- [Back-End: EquipamentAPI](https://github.com/fga-eps-mds/2023-1-Alectrion-EquipamentApi) 
+
+- [Back-End: GateWay](https://github.com/fga-eps-mds/2023-1-Alectrion-Gateway) 
+
+
+## Integrantes
+
+### 2023-1
+
+| Disciplina | Matricula | Nome | Github | E-mail |
+|------------|-----------|------|--------|--------|
+|EPS|180123203|João Pedro Alves da Silva Chaves|[JPedroCh](https://github.com/JPedroCh)|joaopedroaschaves@gmail.com|
+|EPS|180125770|Lucas Gabriel Bezerra|[lucasgbezerra](https://github.com/lucasgbezerra)|lucasbsb100@gmail.com|
+|EPS|180011961|Aline Helena Lermen|[AlineLermen](https://github.com/AlineLermen)|aline.helena.lermen@gmail.com|
+|EPS|190026243|Dafne Moretti Moreira|[DafneM](https://github.com/DafneM)|moretti.dafne@gmail.com|
+|EPS|180105345|Lucas Lima Ferraz|[mibasFerraz](https://github.com/mibasFerraz)|180105345@aluno.unb.br|
+|EPS|180074741|Caio Martins|[linktocaio](https://github.com/linktocaio)|caio@wgo.com.br|
+|EPS|180020251|João Vitor Lopes de Farias|[JoaoVitorFarias ](https://github.com/JoaoVitorFarias )|jvlopesfarias@gmail.com|
+|MDS|200024949|Matheus Ferreira Diogo|[matferreira1](https://github.com/matferreira1)|ferreira123matheus@hotmail.com|
+|MDS|200062166|Leonardo Ferreira Borges|[Leofbrgs](https://github.com/Leofbrgs)|leonardo81733@icloud.com|
+|MDS|200062620|Pedro Augusto Dourado Izarias|[Izarias](https://github.com/Izarias)|pedroaugustoizarias@gmail.com|
+|MDS|200025791|Pablo Guilherme de Jesus Batista Silva|[PabloGJBS](https://github.com/PabloGJBS)|plabo.jbs@gmail.com|
+|MDS|202016168|Eric Camargo da Silva|[Ericcs10](https://github.com/Ericcs10)|eric.camargo.silva@gmail.com|
+|MDS|211045196|Suzane Alves Duarte|[suzaneduarte](https://github.com/suzaneduarte)|ssuzane9@hotmail.com|
+|MDS|202063201|Ester Flores Lino da Silva|[esteerlino](https://github.com/esteerlino)|esteerlino@gmail.com|
+|MDS|190033011|Luana Souza Silva Torres|[luanatorress](https://github.com/luanatorress)|lulyluana53@hotmail.com|
+|MDS|211029540|Pedro Sena|[pedroyen21](https://github.com/pedroyen21)|211029540@aluno.unb.br|

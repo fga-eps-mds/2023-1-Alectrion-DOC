@@ -16,7 +16,7 @@
 | [US 03: Excluir equipamento](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/37)       |Ester, Pedro Sena | Dafne e Caio |
 | [US 05: Registrar movimentações](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/50)   |Pablo, Leonardo| João Vitor |
 | US 5 ([Filtros de movimentações](https://github.com/fga-eps-mds/2023-1-Alectrion-DOC/issues/81))  |Eric, Pedro Izarias| João Pedro |
-| US 4 ([Filtros de equipamentos](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/84))   |Luana, Matheus| Lucas Lima |
+| US 4 ([Filtros de equipamentos](https://github.com/fga-eps-mds/2023-1-alectrion-doc/issues/84))   |Luana, Matheus| Lucas Lima, Lucas Gabriel |
 
 
 ## Outras atividades
