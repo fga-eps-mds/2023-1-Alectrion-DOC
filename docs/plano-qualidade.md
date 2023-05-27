@@ -18,15 +18,15 @@ O objetivo da elaboração deste plano de qualidade é especificar as ferramenta
 
 - Selecionar e coletar métricas
 
-- Apresentar a interpretação e uso das metricas para o produto.
+- Apresentar a interpretação e uso das métricas para o produto.
 
-- Especificar procedimentos, tecnicas e ferramentas
+- Especificar procedimentos, técnicas e ferramentas
 
 ## 3. Objetivos de qualidade
 
 No contexto dos objetivos definidos pela norma ISO 25010:2011, a análise de qualidade do projeto se concentra em três áreas principais: qualidade interna, qualidade externa e qualidade de uso.
 
-A qualidade interna e externa visa avaliar o produto em si e está centrada em seis características principais: funcionalidade, confiabilidade, usabilidade, eficiência, manutenabilidade e portabilidade. Cada uma dessas características abrange diversas subcaracterísticas. Essas subcaracterísticas são observáveis externamente quando o software é utilizado e são influenciadas pelos atributos internos do produto.
+A qualidade interna e externa visa avaliar o produto em si e está centrada em seis características principais: funcionalidade, confiabilidade, usabilidade, eficiência, manutenibilidade e portabilidade. Cada uma dessas características abrange diversas subcaracterísticas. Essas subcaracterísticas são observáveis externamente quando o software é utilizado e são influenciadas pelos atributos internos do produto.
 
 Por sua vez, a qualidade de uso se concentra em quatro características principais: eficácia, produtividade, segurança e satisfação. Essas características são derivadas da combinação das seis características de qualidade (interna e externa) previamente definidas pela norma ISO.
 
@@ -36,7 +36,7 @@ A análise de qualidade do projeto aborda tanto os aspectos internos quanto os e
 
 Para alcançar os objetivos de qualidade do projeto, foram adotadas três técnicas de verificação e validação:
 
-- Análise estática do código: Essa técnica utiliza o Sonar Cloud como ferramenta de análise estatíca de código, para obter métricas mensuráveis. Essa ferramenta identifica potenciais problemas no código e fornece informações relevantes para a gestão da qualidade do projeto, que colabora para a tomada de decisões e pontos a serem atacados pela equipe.
+- Análise estática do código: Essa técnica utiliza o Sonar Cloud como ferramenta de análise estática de código, para obter métricas mensuráveis. Essa ferramenta identifica potenciais problemas no código e fornece informações relevantes para a gestão da qualidade do projeto, que colabora para a tomada de decisões e pontos a serem atacados pela equipe.
 
 - Testes automatizados: Foram realizados testes automatizados, incluindo testes unitários e de integração. Essa abordagem permite validar tanto os cenários esperados quanto situações de erro, garantindo o funcionamento adequado do software em diversas condições.
 
@@ -147,3 +147,4 @@ O processo de manutenção de sistemas de software é fundamental para garantir 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 23/05/2023 | Criação de plano de comunicação | Dafne Moretti |
+| 26/05/2023 | Review documento | Caio Martins |
