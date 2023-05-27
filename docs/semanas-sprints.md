@@ -13,3 +13,4 @@ Foi feita a documentação das semanas iniciais do projeto e das *sprints*.
 - [*Sprint* 1](./semanas-sprints/sprint1.md)
 - [*Sprint* 2](./semanas-sprints/sprint2.md)
 - [*Sprint* 3](./semanas-sprints/sprint3.md)
+- [*Sprint* 4](./semanas-sprints/sprint4.md)
