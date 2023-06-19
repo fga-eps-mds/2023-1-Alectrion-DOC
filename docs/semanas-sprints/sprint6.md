@@ -29,20 +29,21 @@ Resolução de bugs | EPS
 |------------|----------------|-----------|
 | Dafne      | Aline          | Lucas Gabriel
 | Lucas Lima | João Vitor     | Caio
-| Leonardo   | Ester          | Matheus
+| Leonardo   | Ester          | Pedro Sena
 | Suzane     | Luana          | Leonardo
 | Pablo      | Pedro Izarias  | Eric
 |     -      |       -        |    -
 
 
 ## Quadro de conhecimento
-
+<img src="../../assets/quadro-conhecimento/quadro-sprint6.png">
 
 ## Retrospectiva da sprint 6
-
+<img src="../../assets/retrospectivas/retro-sprint6.png">
 
 ## Histórico de versão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 05/06/2023 | Criação do documento | Aline Lermen |
+| 19/06/2023 | Adição da retrospectiva e quadro | Aline Lermen |
