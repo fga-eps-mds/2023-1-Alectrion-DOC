@@ -37,12 +37,14 @@ Aumentar cobertura de testes | EPS
 
 
 ## Quadro de conhecimento
+<img src="../../assets/quadro-conhecimento/quadro-sprint8.png">
 
 ## Retrospectiva da sprint 8
-
+<img src="../../assets/retrospectivas/retro-sprint8.png">
 
 ## Histórico de versão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 19/06/2023 | Criação do documento | Aline Lermen |
+| 29/06/2023 | Adição da retrospectiva e quadro | Aline Lermen |
