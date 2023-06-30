@@ -50,3 +50,7 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 |MDS|202063201|Ester Flores Lino da Silva|[esteerlino](https://github.com/esteerlino)|esteerlino@gmail.com|
 |MDS|190033011|Luana Souza Silva Torres|[luanatorress](https://github.com/luanatorress)|lulyluana53@hotmail.com|
 |MDS|211029540|Pedro Sena|[pedroyen21](https://github.com/pedroyen21)|211029540@aluno.unb.br|
+
+## Vídeo de apresentação da R1
+
+[![Watch the video](https://img.youtube.com/vi/ujKhcwAV9ho/maxresdefault.jpg)](https://youtu.be/ujKhcwAV9ho)
