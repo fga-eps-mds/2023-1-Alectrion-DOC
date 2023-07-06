@@ -42,13 +42,14 @@ Coleta retroativa de métricas | EPS
 
 
 ## Quadro de conhecimento
-<!-- <img src="../../assets/quadro-conhecimento/quadro-sprint10.png"> -->
+<img src="../../assets/quadro-conhecimento/quadro-sprint10.png">
 
 ## Retrospectiva da sprint 9
-<!-- <img src="../../assets/retrospectivas/retro-sprint10.png"> -->
+<img src="../../assets/retrospectivas/retro-sprint10.png">
 
 ## Histórico de versão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 29/06/2023 | Criação do documento | Aline Lermen |
+| 06/07/2023 | Adição da retrospectiva e quadro | Aline Lermen |
