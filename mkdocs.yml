@@ -3,10 +3,6 @@ site_name: Alectrion
 repo_name: "2023-1-Alectrion"
 repo_url: "https://github.com/fga-eps-mds/2023-1-Alectrion-DOC"
 
-markdown_extensions:
-  - pymdownx.arithmatex:
-      generic: true
-      
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
@@ -33,11 +29,8 @@ nav:
   - Plano e monitoramento:
     - Plano de comunicação: plano-comunicacao.md
     - Plano de custos: plano-custos.md
-<<<<<<< HEAD
     - Plano de qualidade: plano-qualidade.md
-=======
     - EVM Agile: evm.md
->>>>>>> 12bf626 (#38 docs: adicionando evm)
     - Análise de riscos: plano-riscos.md
   - Contribuição:
     - Guia de contribuição: documentacao/guiaDeContribuicao.md
@@ -51,7 +44,6 @@ nav:
     - Protótipo de alta fidelidade: documentacao/prototipo.md
     - Guia de estilo: documentacao/guia-de-estilo.md
   - Semanas e Sprints: semanas-sprints.md
-<<<<<<< HEAD
   - Lean Inception:
     - Visão do Produto: documentacao/lean-inception/visao-do-produto.md
     - É, Não é, Faz, Não faz: documentacao/lean-inception/e-nao-e.md
@@ -63,8 +55,5 @@ nav:
     - Sequenciador: documentacao/lean-inception/sequenciador.md
     - Canvas MVP: documentacao/lean-inception/canvas.md
     - Backlog inicial do produto: documentacao/backlog.md
-=======
-
->>>>>>> 12bf626 (#38 docs: adicionando evm)
 
 dev_addr: "0.0.0.0:8000"

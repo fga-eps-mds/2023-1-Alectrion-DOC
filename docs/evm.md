@@ -104,6 +104,7 @@ $$
 
 > [1] CASTRO, António Agostinho Freitas. Estudo da utilização do EVM em ambientes ágeis. 2022. Tese de Doutorado. Acesso em: 01 de maio de 2023  
 > [2] Earned Value Management: The Basics Disponível em: https://www.ecosys.net/knowledge/earned-value-management-basics/. Acesso em: 01 maio 2023.
+>[3] AgileEVM – Earned Value Management in Scrum Projects. Tamara S.; Brent B.; Thomas B. Proceedings of AGILE 2006 Conference. 2006.
 
 ## 6. Histórico de versão
 
