@@ -38,13 +38,15 @@ Testes | Suzane e Aline
 
 
 ## Quadro de conhecimento
-
+<img src="../../assets/quadro-conhecimento/quadro-sprint4.png">
 
 ## Retrospectiva da sprint 4
-
+<img src="../../assets/retrospectivas/retro-sprint4.png">
 
 ## Histórico de versão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 26/05/2023 | Criação do documento | Aline Lermen |
+| 05/06/2023 | Adição da retrospectiva | Aline Lermen |
+| 09/07/2023 | Revisão do documento | Dafne Moretti |
