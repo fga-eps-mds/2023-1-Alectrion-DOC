@@ -3,6 +3,11 @@ site_name: Alectrion
 repo_name: "2023-1-Alectrion"
 repo_url: "https://github.com/fga-eps-mds/2023-1-Alectrion-DOC"
 
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 theme:
   name: material
   language: "pt"
@@ -25,6 +30,7 @@ nav:
     - Plano de comunicação: plano-comunicacao.md
     - Plano de custos: plano-custos.md
     - Plano de qualidade: plano-qualidade.md
+    - EVM Agile: evm.md
     - Análise de riscos: plano-riscos.md
   - Contribuição:
     - Guia de contribuição: documentacao/guiaDeContribuicao.md
