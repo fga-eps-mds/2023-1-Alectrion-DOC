@@ -46,3 +46,4 @@ Resolver *bugs* | EPS e MDS
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 29/06/2023 | Criação do documento | Aline Lermen |
+| 09/07/2023 | Revisão do documento | Dafne Moretti |

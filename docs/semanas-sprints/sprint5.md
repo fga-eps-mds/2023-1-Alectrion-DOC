@@ -52,3 +52,4 @@ Resolução de bugs | EPS
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 05/06/2023 | Criação do documento | Aline Lermen |
+| 09/07/2023 | Revisão do documento | Dafne Moretti |

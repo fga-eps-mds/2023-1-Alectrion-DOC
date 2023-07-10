@@ -47,3 +47,5 @@ Refatoração de código | EPS
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 | 19/06/2023 | Criação do documento | Aline Lermen |
+| 09/07/2023 | Revisão do documento | Dafne Moretti |
+

@@ -47,3 +47,4 @@ Resolução de bugs | EPS
 |--------|-------------|--------------|
 | 05/06/2023 | Criação do documento | Aline Lermen |
 | 19/06/2023 | Adição da retrospectiva e quadro | Aline Lermen |
+| 09/07/2023 | Revisão do documento | Dafne Moretti |

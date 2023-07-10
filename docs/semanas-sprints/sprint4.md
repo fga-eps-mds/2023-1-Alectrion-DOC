@@ -49,3 +49,4 @@ Testes | Suzane e Aline
 |--------|-------------|--------------|
 | 26/05/2023 | Criação do documento | Aline Lermen |
 | 05/06/2023 | Adição da retrospectiva | Aline Lermen |
+| 09/07/2023 | Revisão do documento | Dafne Moretti |
