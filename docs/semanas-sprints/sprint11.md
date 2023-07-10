@@ -1,4 +1,4 @@
-# Sprint 10
+# Sprint 11
 
 - Data de início: 05/07/2023
 - Data de término: 10/07/2023
@@ -43,7 +43,7 @@ Revisão do EVM Agile | EPS
 ## Quadro de conhecimento
 <img src="../../assets/quadro-conhecimento/quadro-sprint11.png">
 
-## Retrospectiva da sprint 10
+## Retrospectiva da sprint 11
 <img src="../../assets/retrospectivas/retro-sprint11.png">
 
 ## Histórico de versão

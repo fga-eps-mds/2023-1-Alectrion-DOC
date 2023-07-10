@@ -44,7 +44,7 @@ Coleta retroativa de métricas | EPS
 ## Quadro de conhecimento
 <img src="../../assets/quadro-conhecimento/quadro-sprint10.png">
 
-## Retrospectiva da sprint 9
+## Retrospectiva da sprint 10
 <img src="../../assets/retrospectivas/retro-sprint10.png">
 
 ## Histórico de versão
