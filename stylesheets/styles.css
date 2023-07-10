@@ -1,5 +1,9 @@
 .md-header {
-  background: orange;
+  background: #F49320 !important;
+}
+
+.md-tabs {
+  background: #F49320 !important;
 }
 
 p img {
@@ -14,7 +18,7 @@ p {
 }
 
 thead tr {
-  background: orange !important;
+  background: #d7323f !important;
   color: white;
 }
 
